@@ -1,11 +1,11 @@
 
 
-# WordNets
+# WordScapes111
 
 
 ## General Information
-WordNets is a game we made as the final project of course CSC111, inspired by the game Wordscapes.  
-WordNets is a crossword-type game, in which the user use a set of given letters to form the maximal amount of English words that then fit into a crossword puzzle. 
+WordScapes111 is a game we made as the final project of course CSC111, inspired by the game Wordscapes.  
+WordScapes111 is a crossword-type game, in which the user use a set of given letters to form the maximal amount of English words that then fit into a crossword puzzle. 
 
 
 ## Files included in the project
